@@ -1,0 +1,15 @@
+{
+    "name": "yt_playlist",
+    "version": "1.0.0",
+    "description": "displays all the insigts of a youtube playlist",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "surjeet singh",
+    "license": "ISC",
+    "dependencies": {
+      "body-parser": "^1.20.0",
+      "express": "^4.17.3"
+    }
+  }
